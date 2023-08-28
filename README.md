@@ -37,7 +37,7 @@ These are screenshots of the project in the initial state and the active state, 
 
 
 ### Links
-- Solution URL: [Check my solution on Frontend mentor here !]()
+- Solution URL: [Check my solution on Frontend mentor here !](https://www.frontendmentor.io/solutions/huddle-landing-page-with-css-flexbox-Ahz28dBZW7)
 - Live Site URL: [Take a look at the site running here !](https://guisalva.github.io/frontendMentor-Huddle-landingPage/)
 
 # My process
