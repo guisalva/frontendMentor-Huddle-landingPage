@@ -26,11 +26,11 @@ Users should be able to:
 
 These are screenshots of the project in the initial state and the active state, where all the hovers are activated.
 
-## Mobile Preview
+#### Mobile Preview
 ![](./src/screenshots/mobile-screenshot.png)
 ![](./src/screenshots/mobile-screenshot-hover.png)
 
-## Desktop Preview
+#### Desktop Preview
 ![](./src/screenshots/desktop-screenshot.png)
 ![](./src/screenshots/desktop-screenshot-hover.png)
 
