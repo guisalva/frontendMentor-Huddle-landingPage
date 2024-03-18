@@ -22,7 +22,7 @@ Users should be able to:
 - View the optimal layout for the page depending on their device's screen size
 - See hover states for all interactive elements on the page
 
-## Screenshot
+### Screenshot
 
 These are screenshots of the project in the initial state and the active state, where all the hovers are activated.
 
@@ -40,7 +40,7 @@ These are screenshots of the project in the initial state and the active state, 
 - Solution URL: [Check my solution on Frontend mentor here !](https://www.frontendmentor.io/solutions/huddle-landing-page-with-css-flexbox-Ahz28dBZW7)
 - Live Site URL: [Take a look at the site running here !](https://guisalva.github.io/frontendMentor-Huddle-landingPage/)
 
-# My process
+## My process
 
 ### Built with
 
