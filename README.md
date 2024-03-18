@@ -55,6 +55,6 @@ With this project I've learned a little bit more of Web layout and I could train
 
 # Author
 
-- GitHub - [GuiSalva](https://github.com/guisalva)
-- Frontend Mentor - [@GuiSalva](https://www.frontendmentor.io/profile/guisalva)
+- GitHub - [guisalva](https://github.com/guisalva)
+- Frontend Mentor - [@guisalva](https://www.frontendmentor.io/profile/guisalva)
 - LinkedIn - [Guilherme Salvador](https://www.linkedin.com/in/guisalva)
